@@ -1,6 +1,6 @@
 # XML Merger
 
-This repository hosts a Python code using ElementTree and os Library to merge multiple XML trees into one.
+This repository hosts a code using ElementTree and os Python's Library to merge multiple XML trees into one.
 
 ! Important !
 
