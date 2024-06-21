@@ -1,4 +1,4 @@
-# XML Merger
+# $XML$ $Merger$
 
 This repository hosts a code using ElementTree and os Python's Library to merge multiple XML trees into one.
 
